@@ -1,5 +1,6 @@
 # .gitignore for TackEngineLibExamples
 .vs/*
+TackEngineLib
 
 FlappyBirdGameExample/bin/*
 FlappyBirdGameExample/Bin/*
@@ -11,5 +12,3 @@ TemplateProject/bin/*
 TemplateProject/Bin/*
 TemplateProject/obj/*
 TemplateProject/Obj/*
-
-TackEngineLib/*
