@@ -1,4 +1,5 @@
 # .gitignore for TackEngineLibExamples
+.vs/*
 
 FlappyBirdGameExample/bin/*
 FlappyBirdGameExample/Bin/*
