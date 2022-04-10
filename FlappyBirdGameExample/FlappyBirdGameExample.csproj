@@ -7,12 +7,12 @@
     <RunPostBuildEvent>Always</RunPostBuildEvent>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\TackEngineLib\TackEngineLib.csproj" />
-  </ItemGroup>
-
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
     <Exec Command="call &quot;$(SolutionDir)post_build.bat&quot; $(ProjectName) $(SolutionDir) $(ProjectDir) $(OutDir)" />
   </Target>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TackEngineLib\TackEngineLib.csproj" />
+  </ItemGroup>
 
 </Project>
