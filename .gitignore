@@ -1,32 +1,14 @@
-# Prerequisites
-*.d
+# .gitignore for TackEngineLibExamples
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+FlappyBirdGameExample/bin/*
+FlappyBirdGameExample/Bin/*
+FlappyBirdGameExample/obj/*
+FlappyBirdGameExample/Obj/*
 
-# Precompiled Headers
-*.gch
-*.pch
+# Template project
+TemplateProject/bin/*
+TemplateProject/Bin/*
+TemplateProject/obj/*
+TemplateProject/Obj/*
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+TackEngineLib/*
