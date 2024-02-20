@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyBirdGameExampleDesktop", "FlappyBirdGameExampleDesktop\FlappyBirdGameExampleDesktop.csproj", "{45E1458D-F879-4BB6-8BBA-BC431E06B91B}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FlappyBirdGameExampleShared", "FlappyBirdGameExampleShared\FlappyBirdGameExampleShared.shproj", "{E24E390A-A66C-4AA1-A17A-7A5AD18D6224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E1458D-F879-4BB6-8BBA-BC431E06B91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E1458D-F879-4BB6-8BBA-BC431E06B91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E1458D-F879-4BB6-8BBA-BC431E06B91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E1458D-F879-4BB6-8BBA-BC431E06B91B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DCE26BD-4654-4C70-9175-49F27AB0D24A}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		FlappyBirdGameExampleShared\FlappyBirdGameExampleShared.projitems*{e24e390a-a66c-4aa1-a17a-7a5ad18d6224}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

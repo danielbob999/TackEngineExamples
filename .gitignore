@@ -2,10 +2,17 @@
 .vs/*
 TackEngineLib
 
-FlappyBirdGameExample/bin/*
-FlappyBirdGameExample/Bin/*
-FlappyBirdGameExample/obj/*
-FlappyBirdGameExample/Obj/*
+# Flappy Bird Game Example
+FlappyBirdGameExample/.vs/*
+FlappyBirdGameExample/FlappyBirdGameExampleDesktop/bin/*
+FlappyBirdGameExample/FlappyBirdGameExampleDesktop/Bin/*
+FlappyBirdGameExample/FlappyBirdGameExampleDesktop/obj/*
+FlappyBirdGameExample/FlappyBirdGameExampleDesktop/Obj/*
+
+FlappyBirdGameExample/FlappyBirdGameExampleAndroid/bin/*
+FlappyBirdGameExample/FlappyBirdGameExampleAndroid/Bin/*
+FlappyBirdGameExample/FlappyBirdGameExampleAndroid/obj/*
+FlappyBirdGameExample/FlappyBirdGameExampleAndroid/Obj/*
 
 # Template project
 TemplateProject/bin/*
